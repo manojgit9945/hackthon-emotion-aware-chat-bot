@@ -262,11 +262,6 @@ The model detects 25+ nuanced emotions:
 
 ---
 
-## 🖼 Screenshot Placeholder
-
-*(Add your actual screenshot)*
-
-> ![Chat Preview](https://via.placeholder.com/900x400?text=Emotion-Aware+Chat+UI)
 
 ---
 
