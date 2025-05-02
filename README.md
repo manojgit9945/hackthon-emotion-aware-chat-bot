@@ -1,6 +1,4 @@
-Perfect — here’s the **final, full-fledged `README.md`** with **every step clearly outlined**, including **downloading Ollama**, pulling models, setting up virtual environments, running servers, and using the frontend.
 
----
 
 # 💬 Emotion-Aware Chat App
 
@@ -285,4 +283,4 @@ The model detects 20+ emotions, such as:
 
 ---
 
-Let me know if you'd like this exported as `README.md` so you can copy/upload directly to GitHub.
+project by manoj L
